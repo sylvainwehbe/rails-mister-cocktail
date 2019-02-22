@@ -1,1 +1,15 @@
 // Specific CSS for your home-page
+body {
+  font-family: 'Julius Sans One', sans-serif;
+  background-color: white;
+}
+
+.major-container {
+  width: 100%;
+}
+
+.minor-container {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 80px;
+}
